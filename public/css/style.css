@@ -1,0 +1,8 @@
+.container{
+	width: 80%;
+	margin: 0 auto;
+	background-color: #ddd;
+}
+.container textarea{
+	 float: right;
+}
